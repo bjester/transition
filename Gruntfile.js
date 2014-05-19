@@ -9,7 +9,7 @@ module.exports = function(grunt)
     'lib/core.js',
     'lib/generator/transform.js',
     'lib/generator/duration.js',
-    'lib/handler/opactiy.js',
+    'lib/handler/opacity.js',
     'lib/handler/translate.js'
   ];
   
